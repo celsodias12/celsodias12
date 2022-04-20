@@ -1,7 +1,6 @@
 ## <img src="https://github.com/celsodias12/celsodias12/blob/main/assets/hi.gif" width="25"> Hi! I'm Celso Dias
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/celsodias12/)
-[![](https://img.shields.io/badge/-gmail-red?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=mailto:celsodias129@gmail.com)](mailto:celsodias129@gmail.com)
 ![](https://komarev.com/ghpvc/?username=celsodias12&style=flat-square)
 
 - 🔧 I am always looking to learn new technologies.
