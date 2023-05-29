@@ -4,7 +4,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/celsodias12)
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=celsodias12&style=flat-square)
 
-Full Stack Developer
+I'm a full stack developer with TypeScript, NodeJs, ReactJs and React Native.
 
 ## 🔥 My Stats
 
