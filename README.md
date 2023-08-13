@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsodias12/)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/celsodias12)
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=celsodias12&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=47264001)
 
 I'm a full stack developer with TypeScript, NodeJs, ReactJs and React Native.
 
