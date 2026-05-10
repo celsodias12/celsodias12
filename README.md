@@ -1,35 +1,24 @@
-# Celso Dias
+<h1 align="center">Celso Dias</h1>
+<p align="center">
+  <em>Software Engineer · Back-end · Web · Mobile</em><br/>
+  <em>Node.js · TypeScript · React · Go · React Native · Python</em>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/celsodias12/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/celsodias12">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=celsodias12&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celsodias12/)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/celsodias12)
-![Profile Views Badge](https://komarev.com/ghpvc/?username=celsodias12&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=47264001)
+---
 
-I'm a full stack developer with TypeScript, NodeJs, ReactJs and React Native.
+I'm a software engineer who works across the whole stack — back-end, web, and mobile. From the systems running quietly in the background to the screens people actually tap and click on, I enjoy building all of it.
 
-## 🔥 My Stats
+Most of my recent work involves payments and financial systems: making sure money moves safely, transactions don't get lost, and things keep running even when a lot of people are using them at the same time. On the web and mobile side, I've built apps for real-time tracking, chat, and B2B sales.
 
-<a href="https://github.com/celsodias12">
-  <div align="center" style="border-color: #ff0000; border-width: 10px">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celsodias12&theme=react"
-      width="100%" />
-  </div>
-</a>
+I started coding at 16, after building my first little game, and never really stopped. Outside of work, I like tinkering with electronics — same curiosity, just with wires instead of code.
 
-<a href="https://github.com/celsodias12">
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=celsodias12&count_private=true&show_icons=true&theme=react&include_all_commits=true&rank_icon=github&custom_title=Celso%20Dias%20GitHub%20Stats"
-      width="45%" />
-    <img src="https://streak-stats.demolab.com?user=celsodias12&theme=react" width="48%" />
-  </div>
-</a>
-
-<a href="https://github.com/celsodias12">
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsodias12&layout=compact&langs_count=10&theme=react"
-      width="50%" />
-  </div>
-</a>
+Before moving back to Brazil, I lived in Europe for over 6 years, which is why I'm fluent in Portuguese, Spanish, and comfortable working in English.
